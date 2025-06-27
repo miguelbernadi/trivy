@@ -32,7 +32,7 @@ require (
 	gopkg.in/src-d/go-billy.v4 v4.3.0 // indirect
 	gopkg.in/src-d/go-git-fixtures.v3 v3.4.0 // indirect
 	gopkg.in/src-d/go-git.v4 v4.10.0
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 replace github.com/genuinetools/reg => github.com/tomoyamachi/reg v0.16.1-0.20190706172545-2a2250fd7c00
